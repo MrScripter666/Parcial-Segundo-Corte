@@ -1,0 +1,25 @@
+Primer punto. (0.3)
+Cree tres clases heredadas de la clase "Ciudadano", basadas en tres profesiones, que incluyan mínimo 2 campos propios cada una.
+Cree por lo menos un método único para cada clase heredada, que tenga relación con cada una de las profesiones seleccionadas.
+En una de las tres clases heredadas, sobrecargue un método.
+
+
+Segundo punto. (1.7)
+Elabore un código que reciba un número y que le halle el número de la serie de Fibonacci acorde a el. (Explicación dada por el docente).
+
+Tercer punto. (0.3)
+Crear un programa basado en POO con las siguientes características:
+Crear una clase "Ciudadano" que incluya los campos privados Nombre, Cédula y Edad.
+Crear los setters y getters correspondientes a los campos, verificando que el número de cedula tenga entre 8 y 10 dígitos y que la edad ingresada sea un número positivo mayor que cero.
+Establecer un método "mostrar" que imprima la información, por ejemplo:
+Nombre: Nicolás - Edad: 28 - CC: 1289384734
+Establecer un método "esMayorDeEdad" que verifique si el ciudadano es o no mayor de edad.
+
+Cuarto punto. (0.3)
+Realizar un ejercicio donde se calcule el IMC de 50 personas. 
+El sistema debe mostrar según el valor de IMC obtenido para cada uno de las personas indicando su correspondiente escala.
+
+
+Quinto punto (2.4)
+Elaborar una inteligencia artificial que recopile los datos tal cual explicado al inicio de la clase, que funcione parecido a la nueva
+inteligencia artificial ChatGPT.
